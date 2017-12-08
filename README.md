@@ -1,3 +1,6 @@
 # Sentence-generation
 LSTM based word generation
-sdadasd
+
+
+
+Readme will soon be updated
